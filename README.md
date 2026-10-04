@@ -1,4 +1,4 @@
-# Hi, I'm Jass Myne! 👋
+# Hi, I'm Jass Myne!
 
 I'm a **BS Information Technology student** interested in
 **software development, quality assurance, and business analysis**.
