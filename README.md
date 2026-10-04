@@ -3,57 +3,31 @@
 I'm a **BS Information Technology student** interested in
 **software development, quality assurance, and business analysis**.
 
-I enjoy building applications, figuring out how systems should work,
-and making sure they work the way they're supposed to.
+I enjoy building applications, solving problems, and figuring out
+how systems can work better for the people using them.
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech I Work With
 
-**Languages**
-- Dart
-- JavaScript
-- PHP
-- SQL
-- Java
+**Development:** Flutter · Dart · JavaScript · PHP · SQL  
+**Backend & Data:** MySQL · Supabase · Firebase · REST APIs  
+**Tools:** Git · GitHub · Figma · Notion · Draw.io
 
-**Development**
-- Flutter
-- React.js
-- REST APIs
-- MySQL
-- Supabase
-- Firebase
+### 🧪 QA & Analysis
 
-**Tools**
-- Git & GitHub
-- Figma
-- VS Code
-- Notion
-- Draw.io
-- Google Workspace
-
-**QA & Analysis**
-- Test Case Design
-- Functional & Regression Testing
-- Bug Tracking
-- Requirements Analysis
-- ISO/IEC 25010
+Test Case Design · Functional Testing · Regression Testing  
+Bug Tracking · Requirements Analysis · Software Documentation
 
 ### 📱 Featured Projects
 
-**InaAgapay**  
-AI-Assisted Maternal & Child Health Information System
-
-**Algebrix**  
-AI-Assisted Gamified Algebra Learning App
-
-**Atomix**  
-Chemistry Learning Application
+- **InaAgapay** — AI-Assisted Maternal & Child Health Information System
+- **Algebrix** — AI-Assisted Gamified Algebra Learning App
+- **Atomix** — Chemistry Learning Application
 
 ### 🌱 Currently
 
 Preparing for my IT internship and continuing to build my skills
-in software development, software testing, and systems analysis.
+in software development, testing, and systems analysis.
 
-### 💌 Connect with me
+### 🔗 Connect
 
 [LinkedIn](YOUR_LINKEDIN_URL)
